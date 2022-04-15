@@ -10,3 +10,4 @@ Thank You For reading
 
 Note:This project is NOT MINE . The oficial project is from this  youtube channel:
 https://www.youtube.com/channel/UCc3GkzbTZ-BOUVB0ySIFyGg
+Note:You have to save in Hard disk (C) 
